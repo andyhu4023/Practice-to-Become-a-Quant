@@ -1,10 +1,10 @@
 # Leetcode 01
 Decription: .....
 
-**Solution**  
+**Solution** O(n) time O(1) space$  
 Here is the ideas.
 
 
 ```python
-print('Hello wordl')
+print('Hello world!')
 ```
