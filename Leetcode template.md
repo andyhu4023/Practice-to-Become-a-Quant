@@ -1,10 +1,10 @@
 # Leetcode 01
 Decription: .....
 
-**Solution**
+**Solution**  
 Here is the ideas.
 
 
-'''python
+```python
 print('Hello wordl')
-''''
+```
